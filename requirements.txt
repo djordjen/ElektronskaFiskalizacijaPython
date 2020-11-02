@@ -1,0 +1,4 @@
+jupyter
+signxml
+pycrypto
+requests
