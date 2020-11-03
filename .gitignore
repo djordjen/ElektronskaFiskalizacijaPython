@@ -271,3 +271,4 @@ cython_debug/
 coreit.key
 coreit_ca.pem
 coreit_cert.pem
+Test.ipynb

@@ -3,3 +3,4 @@ signxml
 pycrypto
 requests
 pytz
+xmltodict
