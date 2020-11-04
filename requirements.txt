@@ -4,3 +4,5 @@ pycrypto
 requests
 pytz
 xmltodict
+pillow
+qrcode
